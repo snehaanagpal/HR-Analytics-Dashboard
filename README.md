@@ -55,7 +55,7 @@ The process involved data cleaning, exploratory data analysis (EDA), and interac
 ---
 
 ## 🖼 Dashboard Preview
-![HR Analytics Dashboard](HR Analytics Dashboard.jpg)
+![HR Analytics Dashboard](dashboard_preview.jpg)
 
 ---
 
