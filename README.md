@@ -1,52 +1,73 @@
-# HR-Analytics-Dashboard
-📊 An interactive dashboard built using Power BI to analyze employee attrition across different dimensions like age, salary, education, gender, and job roles.
+# 💼 HR Analytics Dashboard (Power BI)
 
-🚀 FEATURES:
+## 📊 Overview
+This project focuses on analyzing employee attrition data to identify key patterns and insights that help HR teams improve retention strategies.  
+The process involved data cleaning, exploratory data analysis (EDA), and interactive visualization using Power BI.
 
-1. Attrition Rate overview with employee statistics.
+---
 
-2. Attrition breakdown by:
+## 🧩 Dataset
+- **Source:** HR employee dataset (CSV format)  
+- **Rows:** 1,470  
+- **Key Columns:** Employee Age, Salary, Education, Department, Job Role, Years at Company, Attrition  
+- **Purpose:** To understand factors contributing to employee attrition such as salary levels, experience, and education.
 
-Age
+---
 
-Salary
+## 🛠 Tools & Technologies
+- **Microsoft Excel** – Data cleaning and preprocessing  
+- **Power BI** – Data visualization and dashboard creation  
 
-Education
+---
 
-Gender
+## 🔍 Steps Performed
 
-Job Roles
+### 1. Data Cleaning
+- Removed duplicates and handled missing values  
+- Standardized column names and data formats  
+- Ensured consistency across numeric and categorical fields  
 
-Years at Company
+### 2. Exploratory Data Analysis (EDA)
+- Analyzed attrition patterns by age, gender, education, salary, and job role  
+- Calculated overall attrition rate and average employee metrics  
+- Identified top departments and roles with the highest turnover  
 
+### 3. Dashboard Development (Power BI)
+- Imported cleaned data into Power BI  
+- Created KPIs for attrition count, rate, average salary, and tenure  
+- Designed interactive charts and slicers for easy exploration  
 
-3. Visual insights to identify key problem areas.
+---
 
+## 📈 Dashboard Insights
+- **Total Employees:** 1,470  
+- **Attrition Count:** 237 (16.1%)  
+- **Average Age:** 37 years  
+- **Average Salary:** $6.5K  
+- **Average Tenure:** 7 years  
 
-📂 PROJECT STRUCTURE:
+### Key Findings:
+- Highest attrition occurs among employees aged 26–35  
+- Employees from Technical and Medical fields show higher turnover  
+- Laboratory Technicians and Sales Executives have the most attrition cases  
+- Attrition is higher among employees earning below $5K/month  
 
-Dashboard.pdf → Preview of the dashboard.
+---
 
-HR_Analytics_Dashboard.pbix → Power BI dashboard file.
+## 🖼 Dashboard Preview
+![HR Analytics Dashboard](images/hr_dashboard.png)
 
+---
 
-🔧 TOOLS USED:
+## 🚀 How to Use
+1. Download the `.pbix` file  
+2. Open it in **Power BI Desktop**  
+3. Explore interactive visuals and filters to uncover insights  
 
-1. Power BI
+---
 
-2. Excel (for data cleaning and preprocessing)
-
-
-
-📈 KEY INSIGHTS:
-
-1. Highest attrition among employees aged 26–35.
-
-2. Most attrition seen in Laboratory Technicians & Sales Executives.
-
-3. Employees with low salaries (≤ 5K) have the highest attrition.
-
-
-📝 CONCLUSION:
-
-This dashboard provides HR teams with insights to reduce attrition by focusing on salary restructuring, employee engagement, and retention strategies.
+## 📬 Author
+**Sneha Nagpal**  
+*Data Analyst | Power BI | Excel*  
+📧 [nsneha2301@gmail.com]  
+🔗 [LinkedIn Profile](http://linkedin.com/in/snehanagpal)
